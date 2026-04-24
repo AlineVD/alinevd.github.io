@@ -1,9 +1,9 @@
 url: "https://alinevd.github.io"
 baseurl: ""
 
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Aline Van Driessche"
+author: "Aline Van Driessche"
+description: "University of Cambridge"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
